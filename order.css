@@ -17,22 +17,7 @@ body {
     transition: 1s;
     color: red;
 }
-img {
-    border-top: 40px solid black;
-    border-bottom: 40px solid black;
-    border-left: 40px solid grey;
-    border-right: 40px solid grey;
-    display: inline-block;
-    margin: 0px;
-    width: 670px;
-}
-img:hover {
-    border-top: 40px solid navy;
-    border-bottom: 40px solid navy;
-    border-right: 40px solid red;
-    border-left: 40px solid red;
-    transition: 1s;
-}
+
 div {
     display: in-block;
     margin: 0px;
