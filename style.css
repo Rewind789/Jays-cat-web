@@ -49,6 +49,7 @@ div {
     background-color: skyblue;
     color: white;
     width: 150px;
+    position: fixed;
 }
 a {
     text-decoration: none;
