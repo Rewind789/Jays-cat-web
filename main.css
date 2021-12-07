@@ -50,6 +50,8 @@ div {
     color: white;
     width: 150px;
     position: fixed;
+    text-align: right;
+    align: right;
 }
 a {
     text-decoration: none;
