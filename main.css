@@ -51,8 +51,7 @@ div {
     width: 150px;
     position: fixed;
     text-align: right;
-    align: right;
-    float: right;
+    margin-left: 80%;
 }
 a {
     text-decoration: none;
