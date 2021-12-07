@@ -52,6 +52,7 @@ div {
     position: fixed;
     text-align: right;
     align: right;
+    float: right;
 }
 a {
     text-decoration: none;
